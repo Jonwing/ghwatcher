@@ -1,2 +1,2 @@
 # ghwatcher
-git hub watcher
+github watcher
